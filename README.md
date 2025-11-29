@@ -7,5 +7,6 @@ Jestem
 ![Static Badge](https://img.shields.io/badge/unrealengine-%230E1128)
 ![Static Badge](https://img.shields.io/badge/ea-%23000000)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMasterD_icons=true&theme=radical)
+# Statystyki
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMasterD_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMasterD_format=bytes)
